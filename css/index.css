@@ -320,3 +320,9 @@ header {
     padding-left: 40px;
     margin-top: 25px;
 }
+a:link {
+    text-decoration: none;
+}
+.navigation a {
+    font-size: 14px
+}
