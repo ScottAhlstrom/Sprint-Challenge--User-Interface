@@ -152,6 +152,7 @@ footer nav a {
 .beginning {
     display: flex;
     justify-content: space-between;
+    margin-top: 20px;
 
 }
 .beginning .navigation .hope {
@@ -312,4 +313,10 @@ header {
    align-self: flex-start;
 
 }
-
+.links {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    margin-top: 25px;
+}
